@@ -1,4 +1,3 @@
-
 import org.apache.commons.collections15.Factory;
 
 import java.awt.Color;
