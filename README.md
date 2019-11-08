@@ -4,7 +4,9 @@ I implemented a interactive visual GUI using the JUNG library to help visualize 
 Added JAR library file 
 
 for windows:
+
 javac -cp .;310libs.jar *.java
+
 java -cp .;310libs.jar SimGUI 
 
 *  argument 1 is number of nodes
@@ -13,7 +15,9 @@ java -cp .;310libs.jar SimGUI
 for example (java -cp .:310libs.jar SimGUI 10 1)//will generate 10 nodes where all are connected
 
 for Linux/MacOS
+
 javac -cp .:310libs.jar *.java
+
 java -cp .:310libs.jar SimGUI 
 
 
