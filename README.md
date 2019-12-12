@@ -24,3 +24,5 @@ java -cp .:310libs.jar SimGUI
 * argument 1 is number of nodes
 * argument 2 is the connectivity (i.e .5 == 50% of nodes are connected)
 
+EXAMPLES:
+
