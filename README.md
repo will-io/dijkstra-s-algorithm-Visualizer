@@ -12,3 +12,10 @@ for example (java -cp .:310libs.jar SimGUI 10 1)//will generate 10 nodes where a
 for Linux/MacOS
 javac -cp .:310libs.jar *.java
 java -cp .:310libs.jar SimGUI //arg1 == number of nodes && arg2 == connectivity (i.e .5 == 50% of nodes are connected)
+
+EXAMPLES:
+
+![fconnected](images/fconnectedgraph.png)
+
+
+![animation](images/animation.png)
